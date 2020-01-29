@@ -1,21 +1,28 @@
 
 body{
-    background-image: url(https://wallpaperstock.net/wallpapers/thumbs1/18396.jpg);
+    background-image: url(https://thumbs.gfycat.com/HonestNecessaryAzurewingedmagpie-max-1mb.gif);
+    background-size: cover;
 }
 h1{
     color: purple;
+  
 }
 h2{
+<<<<<<< HEAD
 <<<<<<< HEAD
     color: #B03A2E ;
 =======
     color: aqua;
 >>>>>>> 9cb21fbc02c905fdf2db4630fdf1022dc8f8413f
+=======
+    color: aqua;
+>>>>>>> e2cb2085f88f6be281498b9e091c62bb66dfd86b
 }
 h3{
 
     color: gray;
 }
 article{
-    color: greenyellow;
+    color: white ;
+
 }
