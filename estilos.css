@@ -3,10 +3,14 @@ body{
     background-image: url(https://wallpaperstock.net/wallpapers/thumbs1/18396.jpg);
 }
 h1{
-    color: tomato;
+    color: purple;
 }
 h2{
+<<<<<<< HEAD
     color: #B03A2E ;
+=======
+    color: aqua;
+>>>>>>> 9cb21fbc02c905fdf2db4630fdf1022dc8f8413f
 }
 h3{
 
