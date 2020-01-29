@@ -1,7 +1,9 @@
 
 body{
-    background-image: url(https://thumbs.gfycat.com/HonestNecessaryAzurewingedmagpie-max-1mb.gif);
+    background-image: url(http://49.media.tumblr.com/a83ddd92b63a7bf2ef9a63f84158b9a5/tumblr_nwmzvkYYrZ1tf67l3o1_400.gif);
     background-size: cover;
+    font-family: Helvetica;
+    color: greenyellow;
 }
 h1{
     color: purple;
@@ -23,6 +25,6 @@ h3{
     color: gray;
 }
 article{
-    color: white ;
+    color: greenyellow ;
 
 }
